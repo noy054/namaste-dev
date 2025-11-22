@@ -27,6 +27,5 @@ const container = React.createElement(
 );
 
 const root = createRoot(document.getElementById("root"));
-//passing a react element inside the root
-//async defer
+
 root.render(container);
